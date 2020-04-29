@@ -1,6 +1,6 @@
 # Task-Man
 
-[http://emboiko-task-man.herokuapp.com/]
+http://emboiko-task-man.herokuapp.com/
 
 Manage all your important tasks with this JWT-secured, JSON-based web API. Powered by Node, Express, and MongoDB - tested with Jest / Supertest. 
 
